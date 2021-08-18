@@ -1,2 +1,4 @@
 # example-nest-app
-A nest application example
+A NestJS application example
+
+
